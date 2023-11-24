@@ -44,9 +44,6 @@ MyHealthMate is a personal medical tracker that lets users manage their well-bei
 </div>
 
 
-- Our Team
-- ![image](https://github.com/KanhaiyyaSK/MyHealthMate/assets/97464146/a681e7a4-19ee-4b1b-b653-ac60f54c60fe)
-
 
 
 
@@ -70,7 +67,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository
 
 ```
-git clone https://github.com/KanhaiyyaSK/MyHealthMate.git
+git clone https://github.com/shrishail7/MyHealthMate.git
 ```
 
 
